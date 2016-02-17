@@ -1,0 +1,28 @@
+name: Info
+favicon: null
+layout_spectrum: 0.4085593887139112
+typography_spectrum: 0.5268544759601355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06507667060941458
+  lightness: 0.05180464661680162
+  saturation: 0.6251251823268831
+  rhythmicContrast: 0.8700382804963738
+purpose: []
